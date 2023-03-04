@@ -78,7 +78,7 @@
 </div>
 <h3 align="left">PROJECTS</h3>
 <p align="left"> 
-	       <a href="https://www.hackerrank.com/neethu_sunny" target="_blank">Friends Fan Page</a>
+	       <a href="https://github.com/Sunny-Neethu/FriendsFanPageWebsite" target="_blank">Friends Fan Page</a>
 </P>
 
 															 
