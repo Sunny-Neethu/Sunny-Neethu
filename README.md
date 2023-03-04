@@ -79,10 +79,8 @@
 <h3 align="left">PROJECTS</h3>
 <p align="left"> 
 	       <a href="https://github.com/Sunny-Neethu/FriendsFanPageWebsite" target="_blank">Friends Fan Page</a>
-</P>
+</p>
 
-															 
-<br>
 <br>
 <h4>Email me at : neethusunny.official@gmail.com</h4>
 </p>
