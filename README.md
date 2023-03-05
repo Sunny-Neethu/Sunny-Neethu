@@ -78,7 +78,8 @@
 </div>
 <h3 align="left">PROJECTS</h3>
 <p align="left"> 
-	       <a href="https://github.com/Sunny-Neethu/AssetMaintenanceWebsite" target="_blank">Asset Maintenance Website</a>	       
+	       <a href="https://github.com/Sunny-Neethu/AssetMaintenanceWebsite" target="_blank">Asset Maintenance Website</a>	
+		<br>										
 	       <a href="https://github.com/Sunny-Neethu/FriendsFanPageWebsite" target="_blank">Friends Fan Page</a>
 </p>
 
